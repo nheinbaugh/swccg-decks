@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Fairly successful light side -->
+<!-- Ideally set up a couple big ground drains with sabers -->
+<deck>
+    <card blueprintId="1_3" title="Biggs Darklighter"/>
+    <card blueprintId="2_3" title="Chewbacca"/>
+    <card blueprintId="1_11" title="Han Solo"/>
+    <card blueprintId="1_11" title="Han Solo"/>
+    <card blueprintId="1_13" title="Jek Porkins"/>
+    <card blueprintId="3_11" title="Jeroen Webb"/>
+    <card blueprintId="1_15" title="Kal'Falnl C'ndros"/>
+    <card blueprintId="1_19" title="Luke Skywalker"/>
+    <card blueprintId="1_19" title="Luke Skywalker"/>
+    <card blueprintId="1_19" title="Luke Skywalker"/>
+    <card blueprintId="1_21" title="Obi-Wan Kenobi"/>
+    <card blueprintId="1_21" title="Obi-Wan Kenobi"/>
+    <card blueprintId="1_21" title="Obi-Wan Kenobi"/>
+    <card blueprintId="2_14" title="R2-D2 (Artoo-Detoo)"/>
+    <card blueprintId="2_14" title="R2-D2 (Artoo-Detoo)"/>
+    <card blueprintId="2_14" title="R2-D2 (Artoo-Detoo)"/>
+    <card blueprintId="1_29" title="Red Leader"/>
+    <card blueprintId="2_23" title="Wedge Antilles"/>
+    <card blueprintId="1_40" title="Tatooine Utility Belt"/>
+    <card blueprintId="3_32" title="Bacta Tank"/>
+    <card blueprintId="1_44" title="Beggar"/>
+    <card blueprintId="1_48" title="Disarmed"/>
+    <card blueprintId="1_54" title="Lightsaber Proficiency"/>
+    <card blueprintId="1_62" title="Revolution"/>
+    <card blueprintId="1_62" title="Revolution"/>
+    <card blueprintId="1_71" title="Alter"/>
+    <card blueprintId="1_71" title="Alter"/>
+    <card blueprintId="1_71" title="Alter"/>
+    <card blueprintId="1_71" title="Alter"/>
+    <card blueprintId="1_76" title="Don't Get Cocky"/>
+    <card blueprintId="1_82" title="Gift Of The Mentor"/>
+    <card blueprintId="2_49" title="Grimtaash"/>
+    <card blueprintId="1_87" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_90" title="It Could Be Worse"/>
+    <card blueprintId="1_97" title="Nabrun Leids"/>
+    <card blueprintId="1_109" title="Sense"/>
+    <card blueprintId="1_109" title="Sense"/>
+    <card blueprintId="1_109" title="Sense"/>
+    <card blueprintId="1_109" title="Sense"/>
+    <card blueprintId="2_57" title="Sorry About The Mess"/>
+    <card blueprintId="1_116" title="The Force Is Strong With This One"/>
+    <card blueprintId="3_57" title="Hoth: Echo Command Center (War Room)"/>
+    <card blueprintId="1_128" title="Tatooine: Cantina"/>
+    <card blueprintId="1_132" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_133" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="1_134" title="Tatooine: Obi-Wan's Hut"/>
+    <card blueprintId="2_68" title="Yavin 4: Massassi Ruins"/>
+    <card blueprintId="1_139" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="1_140" title="Corellian Corvette"/>
+    <card blueprintId="1_140" title="Corellian Corvette"/>
+    <card blueprintId="1_140" title="Corellian Corvette"/>
+    <card blueprintId="2_72" title="Red 6"/>
+    <card blueprintId="2_73" title="Tantive IV"/>
+    <card blueprintId="3_71" title="Anakin's Lightsaber"/>
+    <card blueprintId="3_71" title="Anakin's Lightsaber"/>
+    <card blueprintId="1_157" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="1_157" title="Obi-Wan's Lightsaber"/>
+</deck>
