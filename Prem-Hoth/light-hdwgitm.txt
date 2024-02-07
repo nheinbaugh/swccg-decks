@@ -27,6 +27,7 @@
     <card blueprintId="1_54" title="Lightsaber Proficiency"/>
     <card blueprintId="1_62" title="Revolution"/>
     <card blueprintId="1_62" title="Revolution"/>
+    <card blueprintId="2_40" title="Undercover"/>
     <card blueprintId="1_71" title="Alter"/>
     <card blueprintId="1_71" title="Alter"/>
     <card blueprintId="1_71" title="Alter"/>
@@ -53,7 +54,6 @@
     <card blueprintId="1_134" title="Tatooine: Obi-Wan's Hut"/>
     <card blueprintId="2_68" title="Yavin 4: Massassi Ruins"/>
     <card blueprintId="1_139" title="Yavin 4: Massassi War Room"/>
-    <card blueprintId="1_140" title="Corellian Corvette"/>
     <card blueprintId="1_140" title="Corellian Corvette"/>
     <card blueprintId="1_140" title="Corellian Corvette"/>
     <card blueprintId="2_72" title="Red 6"/>
